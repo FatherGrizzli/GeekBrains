@@ -21,26 +21,26 @@
 
 Из-за выраженной любви к железу, я и пошел учится на разработчика.
 
-![Alt text](Foto1.jpg)
+![Alt text](Materials/Foto1.jpg)
 
 ---
 
 ### О моем питомце которое вселяет ужас!
 ---
 УуУууу страшно? Хочу вас познакомить со своим маленьким чертиком Twixi. 
-![Alt text](Foto2.jpg)
+![Alt text](Materials/Foto2.jpg)
 
 Знающая не одно боевое искусства!
 
-![Alt text](Foto4.jpg)
+![Alt text](Materials/Foto4.jpg)
 
 И может за меня постоять в сложную минуту.
 
-![Alt text](Foto5.jpg)
+![Alt text](Materials/Foto5.jpg)
 
 Моя подруга которая не дает мне скучать.
 
-![Alt text](Foto3.jpg)
+![Alt text](Materials/Foto3.jpg)
 
 Twixi!
 
@@ -55,15 +55,15 @@ Twixi!
 ---
 Тут тебе и вздутые акб
 
-![Alt text](Foto8.jpg)
+![Alt text](Materials/Foto8.jpg)
 
 И разорванные цепи питания 
 
-![Alt text](Foto6.jpg)
+![Alt text](Materials/Foto6.jpg)
 
 Даже могут рацию принести на перепайку
 
-![Alt text](Foto7.jpg)
+![Alt text](Materials/Foto7.jpg)
 
 Ну конечно это не весь моей перечень обязанностей еще дизайн и много другое, особо хвалится не люблю я человек скромный.
 
@@ -76,15 +76,15 @@ Twixi!
 
 Могу собрать друзей и поиграть в настолки как видите без вредного некуда.
 
-![Alt text](Foto9.jpg)
+![Alt text](Materials/foto9.jpg)
 
 Без задротства тоже не обошлось, как я говорил ранее любовь к железу у меня с рождения 
 
-![Alt text](Foto10.jpg)
+![Alt text](Materials/foto10.jpg)
 
 Ну и люблю вкусно поесть, люблю вкусную, а чаще всего это вредная еда.
 
-![Alt text](Foto11.jpg)
+![Alt text](Materials/foto11.jpg)
 
 Это конечно не полный список, так сказать демо из моей жизни.
 
