@@ -13,5 +13,5 @@ if (NumberA>max) max=NumberA;
 if (NumberB>max) max=NumberB;
 if (NumberC>max) max=NumberC;
 {
-     Console.WriteLine("Число " + max + " Самое Большое Татьяна =)");
+     Console.WriteLine("Число " + max + " Самое Большое Татьяна");
 }
