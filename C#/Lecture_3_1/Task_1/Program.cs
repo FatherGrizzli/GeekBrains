@@ -123,3 +123,10 @@ int Diapason (int quadro)
        
 
 }
+int result = Diapason()
+if (result -- 1)
+{
+       Console.WriteLine("Ваш диапозон x > 0 и y > 0");
+       
+
+}
