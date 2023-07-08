@@ -104,6 +104,7 @@ int Koord (int x, int y)
 //Напишите программу которая по номеру четверти 
 // показывает диапозон возможных координат точек в этой четверти (x и y)
 
+/*
 int Diapason (int quadro)
 {
        //int quadro1;
@@ -123,3 +124,4 @@ int Diapason (int quadro)
        
 
 }
+*/
